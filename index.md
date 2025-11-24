@@ -1,0 +1,40 @@
+Bookmarks DB5UI 
+===
+dmrID	2620700
+
+
+DMR Topics
+-----------
+[Deutsche Antyone](http://www.anytone.de)<br>
+[Wiki dg9vh](https://wiki.dg9vh.de/dmr:anytone_d868uv:start)
+
+
+Call lists
+----
+[contacts](http://www.amateurradio.digital/wizard.php?radio=d868uv)<br>
+[gitHUB dc9al Angelo](https://github.com/ContactLists/ContactLists/tree/master/Anytone)<br>
+[DMR ID List](https://ham-digital.org/status/)
+
+Repeater 
+---
+[Map DL](https://repeatermap.de/)
+
+hose Line - Last Heard
+----
+[Heard User on Air](ttp://ham-dmr.de/userlive/ipsc_master.php)
+
+Miscelleanous
+---
+[brandmeister Network  DL](https://brandmeister.network/?page=login)<br>
+[DB5UI Hotspot](http://pi-star.khgr.de)
+
+CEPT Lizenzen
+---
+[úbersicht](https://files.darc.de/index.php/s/CKT38kZP6miK7xf?dir=/)
+
+Amateurfunk in DL
+---
+[BNetzA (Bundesnetzagentur)](https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/start.html)
+
+[contact](mailto:db5ui@darc.de)
+
