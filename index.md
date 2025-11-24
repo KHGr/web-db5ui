@@ -26,7 +26,7 @@ hose Line - Last Heard
 Miscelleanous
 ---
 [brandmeister Network  DL](https://brandmeister.network/?page=login)<br>
-[DB5UI Hotspot](http://pi-star.khgr.de)
+[DB5UI Hotspot](http://pi-star.khgr.net)
 
 CEPT Lizenzen
 ---
